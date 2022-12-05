@@ -327,27 +327,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/wade.jpg');
+    background: #fff url('../img/nelaton.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/palmer.jpg');
+    background: #fff url('../img/cuda.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/vourgourakis.jpg');
+    background: #fff url('../img/rado.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/cohen.jpg');
+    background: #fff url('../img/traynham.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/yang.jpg');
+    background: #fff url('../img/hutch.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/sheehy.jpg');
+    background: #fff url('../img/rellingson.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/theiss.jpg');
+    background: #fff url('../img/campbell.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.24), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -355,7 +355,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/klein.jpg');
+    background: #fff url('../img/nealis.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(114, 243, 114, 0.32), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -363,7 +363,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/wesson.jpg');
+    background: #fff url('../img/celso.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -371,7 +371,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/church.jpg');
+    background: #fff url('../img/preciado.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(136, 243, 114, 0.48), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -387,7 +387,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/buddy1.jpg');
+    background: #fff url('../img/buddycommons.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
