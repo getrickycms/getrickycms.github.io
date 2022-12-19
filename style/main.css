@@ -327,27 +327,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/lane.jpg');
+    background: #fff url('../img/eitner.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/lopez.jpg');
+    background: #fff url('../img/rose.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/limerick.jpg');
+    background: #fff url('../img/wagerman.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/fraleigh.jpg');
+    background: #fff url('../img/lechevallier.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/An.jpg');
+    background: #fff url('../img/ross.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/weis.jpg');
+    background: #fff url('../img/steinmetz.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/eitner.jpg');
+    background: #fff url('../img/kaufman.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.24), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -355,7 +355,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/medawar.jpg');
+    background: #fff url('../img/gaskin.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(114, 243, 114, 0.32), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -363,7 +363,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/kilgore.jpg');
+    background: #fff url('../img/carroll.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -371,7 +371,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/barnum.jpg');
+    background: #fff url('../img/jordan.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(136, 243, 114, 0.48), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -379,7 +379,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/rickonthecommons.jpg');
+    background: #fff url('../img/wimbish.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.56), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -387,7 +387,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/buddyg.jpg');
+    background: #fff url('../img/wolvie.jpg');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
